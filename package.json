@@ -1,0 +1,19 @@
+{
+  "name": "mern_twitter",
+  "version": "1.0.0",
+  "description": "Mern-twitter-hwk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phil-1041/Mern-twitter.git"
+  },
+  "author": "phil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phil-1041/Mern-twitter/issues"
+  },
+  "homepage": "https://github.com/Phil-1041/Mern-twitter#readme"
+}
